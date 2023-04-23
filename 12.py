@@ -1,6 +1,6 @@
 tupla = ()
 
-print('Verifica se o nome "Maria" está na lista ')
+print('Verifica se o nome "Maria" está na tupla ')
 
 for i in range(0,3):
     nome = input("Digite um nome: ")
